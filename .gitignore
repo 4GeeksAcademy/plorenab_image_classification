@@ -3,4 +3,4 @@ __pycache__
 .learn
 data/
 models/
-*.zip
+*.zipsrc/best_model.h5
